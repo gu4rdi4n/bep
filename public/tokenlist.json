@@ -1,0 +1,14 @@
+{
+  "name": "USDZ Tokenlist",
+  "logoURI": "https://your-vercel-app.vercel.app/icons/logo.png",
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x318777C87CD5e1F7561B3B573127817b83A1Ced4",
+      "name": "Tether",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://your-vercel-app.vercel.app/icons/logo.png"
+    }
+  ]
+}
